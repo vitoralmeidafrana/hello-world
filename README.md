@@ -18,7 +18,7 @@ Eu sou um estudante de Redes de Computadores e Eletrônica
 
 
 
-## 🛠 Habilidades
+## 📱 Redes Sociais
 [![linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://github.com/vitoralmeidafrana)
 
 [![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/v1tinhouu/)
